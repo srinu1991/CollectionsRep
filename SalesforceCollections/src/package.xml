@@ -2,12 +2,17 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>ListClass</members>
+        <members>ListCustomStudObj</members>
         <members>ListObjects</members>
+        <members>ListSelect</members>
+        <members>Student</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>ListClassPage</members>
         <members>ListObjectsPage</members>
+        <members>ListSelectPage</members>
+        <members>StudentPage</members>
         <name>ApexPage</name>
     </types>
     <version>36.0</version>
