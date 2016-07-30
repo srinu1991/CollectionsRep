@@ -1,0 +1,10 @@
+<apex:page controller="ListClass"   >
+	<apex:form>
+	<apex:pageBlock>
+	<apex:pageBlockTable value="{!name}" var="n">
+	<apex:column value="{!n}"/>
+	</apex:pageBlockTable>
+	</apex:pageBlock>
+	</apex:form>
+ 
+</apex:page>

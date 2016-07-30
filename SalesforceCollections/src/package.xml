@@ -4,5 +4,9 @@
         <members>ListClass</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>ListClassPage</members>
+        <name>ApexPage</name>
+    </types>
     <version>36.0</version>
 </Package>
