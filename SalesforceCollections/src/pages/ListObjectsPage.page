@@ -1,0 +1,11 @@
+<apex:page controller="ListObjects" >
+<apex:form>
+<apex:pageBlock>
+<apex:pageBlockTable value="{!items}" var="i">
+<apex:column value="{!i.name}"/>
+<apex:column value="{!i.Category__c}"/>
+</apex:pageBlockTable>
+</apex:pageBlock>
+</apex:form>
+ 
+</apex:page>
