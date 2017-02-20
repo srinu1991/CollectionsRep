@@ -6,5 +6,6 @@ public with sharing class ListClass {
     	name.add('srinu');
     	name.add('gorrepati');
     	name.add('choudary');
+    	name.add('Mr');
     }
 }
